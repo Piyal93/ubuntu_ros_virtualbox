@@ -1,5 +1,4 @@
-# Installing ROS Noetic on Ubuntu 20.04 using VirtualBox (on Windows)
-
+# Installing ROS Noetic on Ubuntu 20.04 using VirtualBox
 This guide will install ROS Noetic in the virual machine(Ubuntu 20.04). 
 
 - Ubuntu Version: 20.04 LTS
@@ -8,7 +7,7 @@ This guide will install ROS Noetic in the virual machine(Ubuntu 20.04).
 
 ## 1. Installing ROS on Ubuntu
 
-1. Open a terminal window by pressing the windows key and searching `Terminal` or using the keyboard shortcut `Ctrl+Alt+T`.
+1. Open a terminal by using the keyboard shortcut `Ctrl+Alt+T`.
 
 2. Run the following commands one after another. 
 
